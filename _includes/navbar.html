@@ -1,0 +1,55 @@
+<nav class="navbar navbar-expand-md navbar-dark bg-dark mb-5">
+  <div class="container">
+    <div>
+      <a class="navbar-brand" href="{{ '/' | relative_url}}"
+        >Introduction to Digital Humanities</a
+      >
+    </div>
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-bs-toggle="collapse"
+      data-bs-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul id="navigation-bar" class="navbar-nav ms-auto mb-2 mb-lg-0">
+        <li class="menu-item nav-item">
+          <a
+            class="nav-link h4 {% if link.url == page.url %}active{% endif %}"
+            href="{{ '/general/' | relative_url}}"
+            >General</a
+          >
+        </li>
+        <li class="nav-item menu-item">
+          <a
+            class="nav-link h4 {% if link.url == page.url %}active{% endif %}"
+            href="{{ '/schedule/' | relative_url}}"
+            >Schedule</a
+          >
+        </li>
+        <li class="nav-item menu-item">
+          <a
+            class="nav-link h4 {% if link.url == page.url %}active{% endif %}"
+            href="{{ '/assignments/' | relative_url}}"
+            >Assignments</a
+          >
+        </li>
+      </ul>
+    </div>
+
+    <!-- <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ms-auto" id="navigation-bar">
+        <li class="nav-item menu-item">
+          <a class="nav-link" href="{{ '/general/' | relative_url}}">General</a>
+        </li>
+
+      </ul>
+    </div> -->
+  </div>
+</nav>

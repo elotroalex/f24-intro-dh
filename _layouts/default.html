@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <title>{{ site.title }}</title>
+    <link
+      rel="icon"
+      type="image/x-icon"
+      href="{{ '/assets/favicon.ico' | relative_url }}"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ '/assets/css/styles.css' | relative_url }}"
+    />
+  </head>
+  <body>
+    {% include navbar.html %}
+    <div class="container col-md-8 col-lg-6 ms-auto">{{ content }}</div>
+    <script src="{{site.baseurl}}/assets/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>
