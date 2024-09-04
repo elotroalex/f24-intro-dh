@@ -18,7 +18,7 @@ permalink: /schedule/
 
 #### Everything, Everywhere, All At Once: The (Digital) Cultural Record
 
-##### Seminar | Monday, September 2
+##### Seminar | Wednesday, September 4
 
 ###### To Read
 
@@ -30,7 +30,7 @@ permalink: /schedule/
 
 - [Reviews in DH](https://reviewsindh.pubpub.org/). Edited by Jennifer Guiliano and Roopika Risam.
 
-##### Studio | Wednesday, September 4
+##### Studio
 
 - Exercise: Building the Actual Global Library of All Things
 
@@ -42,13 +42,7 @@ permalink: /schedule/
 
 ##### Seminar | Monday, September 9
 
-- Best, Stephen, and Sharon Marcus. "[Surface Reading: An
-  Introduction.](http://www.jstor.org/stable/10.1525/rep.2009.108.1.1)"
-  _Representations_ 108, no. 1 (November 2009): 1--21.
-  doi:10.1525/rep.2009.108.1.1
-- Hayles, N. Katherine. "[Print Is Flat, Code Is Deep: The Importance
-  of Media-Specific
-  Analysis](https://muse-jhu-edu.yale.idm.oclc.org/article/54949)
+- Hayles, N. Katherine. "[Print Is Flat, Code Is Deep: The Importance of Media-Specific Analysis](https://muse-jhu-edu.yale.idm.oclc.org/article/54949)
 - "Introduction." Tenen, Dennis. _Plain Text: The Poetics of Computation_. Stanford: Stanford University Press, 2017.
 
 <!-- ☛ Look over at leisure: [Unicode 1.0.0](http://www.unicode.org/versions/Unicode1.0.0/) -->
@@ -135,7 +129,7 @@ Your file system and storage
 
 #### Data: Given and Taken, then We Use It as a Brush.
 
-##### Seminar | Monday, October 7
+##### Seminar
 
 - D'Ignazio, Catherine, and Lauren F. Klein. "[Introduction](https://direct-mit-edu.yale.idm.oclc.org/books/oa-monograph/4660/chapter/213284/Introduction-Why-Data-Science-Needs-Feminism)." _Data Feminism_. MIT
   Press, 2020.

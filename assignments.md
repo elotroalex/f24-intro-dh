@@ -12,7 +12,7 @@ permalink: /assignments/
 
 During the semester you will engage in online annotation and dialogue over one of our readings. We will use the tool [hypothes.is](https://web.hypothes.is/) in order to do our annotations and exchanges. I will distribute a sign-up sheet, and you will be able to sign up for the one you want to annotate.
 
-Besides our annotation exercise, we will build a common vocabulary sheet together using Google Docs. If I'm doing my job right, you will be exposed to a large number of new technical terms and concepts this semester. Sometimes it's hard to keep track of them all. The shared glossary will help us keep track of them, and will become the foundation for a pop quiz at some surprise point during the semester.
+Besides our annotation exercise, we will build [a common vocabulary sheet](https://docs.google.com/document/d/1sVde7on68WVKrxBRaKzhXIPwA-W98VXuB09WojdvU9s/edit?usp=sharing) together using Google Docs. If I'm doing my job right, you will be exposed to a large number of new technical terms and concepts this semester. Sometimes it's hard to keep track of them all. The shared glossary will help us keep track of them, and will become the foundation for a pop quiz at some surprise point during the semester.
 
 #### Class Engagement
 
