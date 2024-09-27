@@ -42,7 +42,7 @@ permalink: /schedule/
 
 ##### Seminar | Monday, September 9
 
-- Hayles, N. Katherine. "[Print Is Flat, Code Is Deep: The Importance of Media-Specific Analysis](https://muse-jhu-edu.yale.idm.oclc.org/article/54949)
+- Hayles, N. Katherine. "[Print Is Flat, Code Is Deep: The Importance of Media-Specific Analysis](https://muse-jhu-edu.yale.idm.oclc.org/article/54949)"
 - "Introduction." Tenen, Dennis. _Plain Text: The Poetics of Computation_. Stanford: Stanford University Press, 2017.
 
 <!-- ☛ Look over at leisure: [Unicode 1.0.0](http://www.unicode.org/versions/Unicode1.0.0/) -->
@@ -129,19 +129,23 @@ Your file system and storage
 
 #### Data: Given and Taken, then We Use It as a Brush.
 
-##### Seminar
+#### Special Guest: Dr. Lauren Klein
 
-- D'Ignazio, Catherine, and Lauren F. Klein. "[Introduction](https://direct-mit-edu.yale.idm.oclc.org/books/oa-monograph/4660/chapter/213284/Introduction-Why-Data-Science-Needs-Feminism)." _Data Feminism_. MIT
-  Press, 2020.
+##### Seminar | Monday, October 7
+
+###### To Read
+
+- Klein, Lauren F., et al. "[Every Datapoint a Person](https://dataxdesign.io/chapters/description)." _Data by Design_. 2024.
 - Drucker, Johanna. "[Humanities Approaches to Graphical Display](https://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html)."
   Digital Humanities Quarterly, vol. 005, no. 1, Mar. 2011.
-- Sá Pereira, Moacir P. de. "[Representation Matters](http://xpmethod.columbia.edu/torn-apart/reflections/moacir_p_de_sa_pereira_2.html)." _Torn
-  Apart/Separados_. June 2018. xpmethod.columbia.edu.
+- Sá Pereira, Moacir P. de. "[Representation Matters](http://xpmethod.columbia.edu/torn-apart/reflections/moacir_p_de_sa_pereira_2.html)." _Torn Apart/Separados_. June 2018. xpmethod.columbia.edu.
 - Hartman, Saidiya. "[Venus in Two Acts](https://www.proquest.com/docview/195789319?accountid=15172&parentSessionId=QoWCQi2tWT6qEFeCa2Sg64W2EpXRKnd5h8jEwR8QxXQ%3D&pq-origsite=summon)." _Small Axe_, vol. 12, no. 2,
-2008, pp. 1--14.
-<!-- - Halberstam, Jack. "Zombie Antihumanism at the End of the World." _Wild Things: The Disorder of Desire_. Perverse Modernities. Durham: Duke University Press, 2020. -->
+  2008, pp. 1--14.
 
-☛ Examine: [Torn Apart/Separados](https://xpmethod.columbia.edu/torn-apart/volume/1/); [(Un)Silencing Slavery](https://unsilencing-slavery.org/credits)
+###### To Explore
+
+- [Torn Apart/Separados](https://xpmethod.columbia.edu/torn-apart/volume/1/)
+- [(Un)Silencing Slavery](https://unsilencing-slavery.org/credits)
 
 ##### Studio | Wednesday, October 9
 
@@ -174,6 +178,8 @@ Your file system and storage
 
 ##### Seminar | Monday, October 21
 
+###### Discussion Lead: Luis
+
 ###### To Read
 
 - Underwood, Ted. _Distant Horizons: Digital Evidence and Literary Change_. Chicago, IL: University of Chicago Press, 2019.
@@ -193,6 +199,8 @@ Your file system and storage
 #### Algorithmic Approaches to Corpora: Creation
 
 ##### Seminar | Monday, October 28
+
+###### Discussion Lead: Nuria
 
 ###### To Read
 
@@ -217,6 +225,8 @@ Your file system and storage
 #### Our Themes
 
 ##### Seminar | Monday, November 4
+
+###### Discussion Lead: Ji
 
 This week is dedicated to themes you want to explore.
 
@@ -246,6 +256,8 @@ This week is dedicated to themes you want to explore.
 
 ##### Seminar | Monday, November 18
 
+###### Discussion Lead: Alejandra
+
 ###### To Read
 
 - Risam, Roopika, and Alex Gil. "[Introduction: The Questions of
@@ -266,7 +278,9 @@ This week is dedicated to themes you want to explore.
 
 #### Exeunt to the World: Workers of the record, unite!
 
-##### Seminar
+##### Seminar | Monday, November 25
+
+###### Discussion Lead: Sophia and Keiara
 
 - Benjamin, Ruha. "[Default Discrimination](https://web-s-ebscohost-com.yale.idm.oclc.org/ehost/ebookviewer/ebook/bmxlYmtfXzIxOTQ0MzhfX0FO0?sid=b16fb1c5-098f-4405-893e-c9d68290ae4d@redis&vid=0&format=EK&lpid=navPoint-20&rid=0)." _Race after Technology: Abolitionist Tools for the
   New Jim Code_. Polity, 2019.
