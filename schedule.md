@@ -182,7 +182,7 @@ Your file system and storage
 
 ###### To Read
 
-- Underwood, Ted. _Distant Horizons: Digital Evidence and Literary Change_. Chicago, IL: University of Chicago Press, 2019.
+- Underwood, Ted. _Distant Horizons: Digital Evidence and Literary Change_. Chicago, IL: University of Chicago Press, 2019. [Yale Library] (https://search.library.yale.edu/catalog/14581523?block=Books)
 
 ###### To Explore
 
