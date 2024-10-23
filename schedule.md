@@ -160,6 +160,8 @@ Your file system and storage
 
 ##### Seminar | Monday, October 14
 
+###### Discussion Lead: Luis
+
 - Wilson-Lee, Edward. [(Selections)](http://teaching.elotroalex.com/assets/docs/lee-catalogue.pdf). _The Catalogue of Shipwrecked Books: Young
   Columbus and the Quest for a Universal Library_. EPub edition,
   William Collins, 2018.
@@ -178,7 +180,7 @@ Your file system and storage
 
 ##### Seminar | Monday, October 21
 
-###### Discussion Lead: Luis
+###### Discussion Lead: Grace
 
 ###### To Read
 
@@ -206,6 +208,7 @@ Your file system and storage
 
 - Borges, Jorge Luis. "[The Library of Babel](https://sites.evergreen.edu/politicalshakespeares/wp-content/uploads/sites/226/2015/12/Borges-The-Library-of-Babel.pdf)" (1941); "[Tlön, Uqbar, Orbis Tertius](https://sites.evergreen.edu/politicalshakespeares/wp-content/uploads/sites/226/2015/12/Borges-Tl%C3%B6n-Uqbar-Orbius-Tertius.pdf)" (1940)
 - (Selections) Tenen, Dennis. _Literary Theory for Robots: How Computers Learned to Write_ (A Norton Short)
+- (Selections) Ramsay, Stephen. "Potential Readings." _Reading Machines: Toward an Algorithmic Criticism_. University of Illinois Press, 2011.
 
 ###### To Explore
 
@@ -278,7 +281,7 @@ This week is dedicated to themes you want to explore.
 
 #### Exeunt to the World: Workers of the record, unite!
 
-##### Seminar | Monday, November 25
+##### Seminar | Monday, December 2
 
 ###### Discussion Lead: Sophia and Keiara
 
@@ -288,14 +291,6 @@ This week is dedicated to themes you want to explore.
 - [pirate.care.syllabus▒▒▒🐙](https://syllabus.pirate.care/)
 
 ☛ Examine: [SUCHO](https://www.sucho.org/)
-
-##### Studio
-
-- Google maps
-
-### Week 14
-
-#### November Recess 🦃
 
 ### The Final Week
 
